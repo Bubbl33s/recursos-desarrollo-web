@@ -33,3 +33,15 @@
 
 * ### [CSS Animaciones y Scroll Animations - Midudev](https://www.youtube.com/watch?v=RwjgfNX41TE)
     Video tutorial de animaciones con CSS
+
+* ### [Box Shadow CSS Generator](https://cssgenerator.org/box-shadow-css-generator.html)
+    Generador de código CSS para sombras
+
+* ### [CSS Tricks](https://css-tricks.com/)
+    Blog donde se comparte ayuda y trucos de CSS
+
+* ### [CSS Loaders](https://css-loaders.com/)
+    Plantillas de animaciones
+
+* ### [100 Days CSS](https://100dayscss.com/)
+    100 retos de CSS, 1 por día

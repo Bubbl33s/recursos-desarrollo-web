@@ -1,6 +1,6 @@
 # Recursos generales
 
-* ### [freeCodecamp](https://www.freecodecamp.org/learn)
+* ### [freeCodeCamp](https://www.freecodecamp.org/learn)
     Página para aprender programación en general, básica y también ciertas "especializaciones".
     Cuenta con una versión en español aunque no está traducido en su totalidad.
 
