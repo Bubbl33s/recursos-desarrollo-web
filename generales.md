@@ -12,7 +12,7 @@
     * #### [Back End Development and APIs](https://www.freecodecamp.org/learn/back-end-development-and-apis/)
     * #### [Data Visualization](https://www.freecodecamp.org/learn/data-visualization/)
 
-* ### [Odin Porject](https://www.theodinproject.com/)
+* ### [The Odin Porject](https://www.theodinproject.com/)
     Bootcamp gratuito online con rutas de aprendizaje, orientado al Desarrollo Web. Tiene las rutas de Full Stack con JavaScript o con Ruby on Rails.
 
 * ### [Full Stack Open](https://fullstackopen.com/en/)

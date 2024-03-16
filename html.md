@@ -1,12 +1,12 @@
 # Recursos HTML
 
-* #### [Lenguaje HTML](https://lenguajehtml.com/html/)
+* ### [Lenguaje HTML](https://lenguajehtml.com/html/)
     Curso online separado por temas
 
-* #### [HTML Cheatsheets](https://lenguajehtml.com/html/cheatsheets/)
+* ### [HTML Cheatsheets](https://lenguajehtml.com/html/cheatsheets/)
     Se encuentra dentro de la página anterior, es un PDF compacto de HTML. Es gratis, la donación es opcional
 
-* #### [HTML - MDN Web Docs](https://developer.mozilla.org/es/docs/Web/HTML)
+* ### [HTML - MDN Web Docs](https://developer.mozilla.org/es/docs/Web/HTML)
     Documentación
 
 * ### [Dev Docs HTML](https://devdocs.io/html/)
